@@ -44,7 +44,7 @@ You can upload files of any extension, folders, and subfolders. The images below
 
 ### Step 4: Upload a Folder
 
-You can also upload a folder to the bucket. If your local folder contains subfolders and data, all data inside the parent folder will be uploaded. The images below show how to upload a folder by dragging and dropping or browsing.
+You can also upload a folder to the bucket. If your local folder contains subfolders and data, all data inside the parent folder will be uploaded. The images below show how to upload a folder by dragging and dropping or browsing. 
 
 ![image](https://github.com/user-attachments/assets/f0ad8c4e-0d66-490f-a4e0-3ecc1d39ba25)
 
